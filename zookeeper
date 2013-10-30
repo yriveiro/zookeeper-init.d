@@ -1,9 +1,9 @@
 #!/bin/sh
 #
-# solrcloud SolrCloud Server
+# zookeeper Zookeeper Server
 #
 # chkconfig: - 80 05
-# description: Enable SolrCloud Server
+# description: Enable Zookeeper Server
 #
 
 ### BEGIN INIT INFO
